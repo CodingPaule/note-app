@@ -1,1 +1,3 @@
-# This is the description for my note app
+# My Note App
+
+Here belongs the description
